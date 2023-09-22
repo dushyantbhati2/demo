@@ -1,4 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
     background-color: blueviolet;
     color: aliceblue;
+}
+header nav ul li{
+    padding-left: 1vw;
 }
